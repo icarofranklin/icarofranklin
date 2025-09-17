@@ -46,10 +46,9 @@ Sou um desenvolvedor backend em formação, com 22 anos, e um eterno estudante a
 
 ### 📱 Redes Sociais
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/icaro-franklin079/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a> 
+<a href="https://www.linkedin.com/in/icaro-franklin079/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://www.youtube.com/@icarofranklin79" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
