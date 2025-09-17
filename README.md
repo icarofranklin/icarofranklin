@@ -1,37 +1,42 @@
-<h1>Olá, meu nome é Ícaro, seja bem vindo ao meu perfil!</h1>
+<h1 align= center>Olá, meu nome é Ícaro Franklin!</h1>
+
+<h2>Seja bem vindo ao meu perfil!</h2>
 
 Sou um desenvolvedor backend em formação, com 22 anos, e um eterno estudante apaixonado por tecnologia e inovação. Meu background em **Mecânica Industrial** me deu uma base sólida em pensamento lógico e resolução de problemas, que agora aplico com paixão no mundo da programação.
 
 ---
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icarofranklin&theme=radical">
-    </td>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador em Ação" width="200">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align=center>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icarofranklin&theme=radical">
-      </div>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icarofranklin&theme=radical">
-    </td>
-  </tr>
-</table>
+  
+  ![Estatísticas do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icarofranklin&theme=radical)
 </div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icarofranklin&theme=radical">
+      </td>
+      <td width="33%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icarofranklin&theme=radical">
+      </td>
+      <td width="33%">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador em Ação" width="200">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
 **Linguagens & Frameworks:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
