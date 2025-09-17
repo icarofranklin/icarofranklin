@@ -3,13 +3,14 @@
   <img
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador em Ação" width="200">
 </p>
+<h2>Redes Sociais📱</h2>
 <div>
 <a href = "https://github.com/icarofranklin/icarofranklin">
 <a href="https://www.linkedin.com/in/icaro-franklin079/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.youtube.com/@icarofranklin79" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/dev_icaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<h1>Linguagens Utilizadas🧑🏻‍💻</h1>
+<h2>Linguagens Utilizadas🧑🏻‍💻</h2>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![CNC](https://img.shields.io/badge/CNC-2C3E50?style=for-the-badge&logo=data-studio&logoColor=white)
