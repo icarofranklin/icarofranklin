@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=007FFF&width=900&size=22&center=true&lines=Seja+bem+vindo!;Sou+do+Brasil;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Backend+em+forma%C3%A7%C3%A3o"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=007FFF&width=900&size=22&center=true&lines=Seja+bem+vindo!;Sou+do+Brasil;Mec%C3%A2nico+Industrial;An%C3%A1lise+e+Desenvolvimento+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Backend+em+forma%C3%A7%C3%A3o"/>
 
 ##
 
@@ -62,6 +62,9 @@
   <p align="center">
     <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ficarofranklin&s=30&c=007FFF&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p>
+    <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador em Ação" width="300">
+</div>
 </div>
 
 <br>
