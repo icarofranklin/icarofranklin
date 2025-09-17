@@ -1,6 +1,4 @@
-<h1 align= center>Olá, meu nome é Ícaro Franklin!</h1>
-
-<h2>Seja bem vindo ao meu perfil!</h2>
+<h1 align= center>Olá, seja bem vindo ao meu perfil!👋🏼</h1>
 
 Sou um desenvolvedor backend em formação, com 22 anos, e um eterno estudante apaixonado por tecnologia e inovação. Meu background em **Mecânica Industrial** me deu uma base sólida em pensamento lógico e resolução de problemas, que agora aplico com paixão no mundo da programação.
 
