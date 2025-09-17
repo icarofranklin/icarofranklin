@@ -1,4 +1,4 @@
-Olá, meu nome é Ícaro, seja bem vindo ao meu perfil! <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/87c5edcb-b751-4e2e-8b74-f9755b8616ae" />
+Olá, meu nome é Ícaro, seja bem vindo ao meu perfil! https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZydXkxcGhvNndqb3YydndybDRpd2l4anFnNW90N3U1YW10OHB2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
 
 
 Sou um desenvolvedor backend em formação, um eterno estudante apaixonado por tecnologia e inovação. Meu background em **Mecânica Industrial** me deu uma base sólida em pensamento lógico e resolução de problemas, que agora aplico com paixão no mundo da programação.
