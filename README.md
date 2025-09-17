@@ -1,6 +1,7 @@
 <h1>Olá, meu nome é Ícaro, seja bem vindo ao meu perfil!</h1>
 
-![Programador em Ação](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+<img
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador em Ação" width="300">
 
 <div>
 <a href = "https://github.com/icarofranklin/icarofranklin">
