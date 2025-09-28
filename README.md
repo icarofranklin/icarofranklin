@@ -60,7 +60,7 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ficarofranklin&s=30&c=007FFF&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.pngpage=https%3A%2F%2Fgithub.com%2Ficarofranklin&s=30&c=007FFF&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p>
     <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzemo2d2pmdnVvNG9oZWZrd3l3djRwaTdxb3V4aTI5bmZpYXQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador em Ação" width="300">
