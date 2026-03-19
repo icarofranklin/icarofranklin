@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=007FFF&width=900&size=22&center=true&lines=Seja+bem+vindo!;Sou+do+Brasil;Mec%C3%A2nico+Industrial;An%C3%A1lise+e+Desenvolvimento+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Programador+Backend+em+forma%C3%A7%C3%A3o"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=4682B4&width=900&size=22&center=true&vCenter=true&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Do+Brasil+para+o+mundo+%F0%9F%87%A7%F0%9F%87%B7;De+Mec%C3%A2nico+Industrial+a+Desenvolvedor;Graduando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+no+Desenvolvimento+Backend+;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis+e+eficientes"/>
 
 ##
 
