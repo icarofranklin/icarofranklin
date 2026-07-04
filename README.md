@@ -4,7 +4,7 @@
 
 <div align="center" width="100%">
   <br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNqdzMxY2VvMjExYjR6enc1anU4eWZpbGpqcDNkbW9semlzdm4yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="150" alt="Animação de Boas-Vindas"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNqdzMxY2VvMjExYjR6enc1anU4eWZpbGpqcDNkbW9semlzdm4yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="250" alt="Animação de Boas-Vindas"/>
   <br>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Pixel&color=0D47A1&width=900&size=22&center=true&vCenter=true&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Do+Brasil+para+o+mundo+%F0%9F%87%A7%F0%9F%87%B7;De+Mec%C3%A2nico+Industrial+a+Desenvolvedor;Graduando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+no+Desenvolvimento+Backend+;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis+e+eficientes"/>
